@@ -6,7 +6,7 @@ host_pass = "d788d7303e7936"
 guest_address = "shubhamkhandelwal523@gmail.com"
 subject = "Regarding failure of main.py"
 content = '''Hello, 
-				Your mail is sent successfully.Developer used the commit and it failed
+				Your mail is sent successfully.Developer used the commit and it gives good accuracy
 			THANK YOU'''
 message = MIMEMultipart()
 message['From'] = host_address
